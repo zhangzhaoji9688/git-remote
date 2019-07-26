@@ -8,4 +8,11 @@ public class GitTest1 {
         System.out.println("hello! github");
     }
 
+
+    public void test(){
+
+        System.out.println(1111111);
+
+    }
+
 }
